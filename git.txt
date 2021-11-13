@@ -4,3 +4,4 @@ workflowを学ぶ
 .git commit
 .gi add
 .gi rm
+.git status
